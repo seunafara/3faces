@@ -197,9 +197,9 @@
                         </ul>
                     </div>
 
-                    <div class="control-num">
+                    <!-- <div class="control-num">
                         <span class="sup active">01</span>
-                    </div>
+                    </div> -->
                     <div class="control-nav">
                         <div class="prev-container" data-dsn="parallax">
                             <svg viewBox="0 0 40 40">
@@ -234,17 +234,20 @@
 
                                     <p data-dsn-animate="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                                         Fugit esse blanditiis quis sapiente enim veritatis. 
-                                        Cupiditate natus, veniam enim velit porro aliquid saepe a, deleniti amet facilis quaerat, unde ad?</p>
+                                        Cupiditate natus, veniam enim velit porro aliquid saepe a, deleniti amet facilis quaerat, unde ad?
+                                        et deleniti excepturi, cupiditate distinctio. 
+                                        Vitae, incidunt ipsa.
+                                        </p>
 
                                     <!-- <h6 data-dsn-animate="text">Kehinde Awoyinfa</h6>
                                     <small data-dsn-animate="text">Co-Founder</small> -->
 
                                     <div class="exper">
                                         <div class="numb-ex">
-                                            <span class="word" data-dsn-animate="text">5</span>
+                                            <span class="word" data-dsn-animate="text"></span>
                                         </div>
 
-                                        <h4 data-dsn-animate="up">YEARS OF <br> EXPERIENCE</h4>
+                                        <h4 data-dsn-animate="up"> <br> </h4>
                                     </div>
 
                                 </div>
@@ -323,32 +326,13 @@
                     </div>
                 </section>
 
-                <div class="box-seat box-seat-full section-margin">
-                    <div class="container-fluid">
-                        <div class="inner-img" data-dsn-grid="move-up">
-                            <img class="lazyload" data-dsn-scale="1" data-dsn-y="30%" src="assets/img/triangle/home-slider/MAC-AF-11.jpg" alt="">
-                        </div>
-                        <div class="pro-text">
-                            <h3>Triangle Residential<br></h3>
-                            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
-                                Aspernatur exercitationem deleniti similique quia atque ullam fuga rem corrupti temporibus, perferendis, facilis dicta architecto eaque nulla, 
-                                ex cupiditate reiciendis suscipit sequi. </p>
-                            <div class="link-custom">
-                                <!-- <a class="image-zoom effect-ajax" href="project-mac.html" data-dsn="parallax">
-                                    <span>Learn More</span>
-                                </a> -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-  
                 <div class=" box-gallery-vertical section-margin section-padding" >
                     <div class="mask-bg"></div>
                     <div class="container">
                         <div class="row align-items-center h-100">
                             <div class="col-lg-6 ">
                                 <div class="box-im" data-dsn-grid="move-up">
-                                    <img class="has-top-bottom lazyload" src="assets/img/triangle/home-slider/mini-workspace.jpg" alt=""
+                                    <img class="has-top-bottom lazyload" src="assets/img/triangle/home-slider/Pearl-Towers-23.jpg" alt=""
                                         data-dsn-move="20%">
                                 </div>
                             </div>
@@ -359,7 +343,7 @@
                                 <div class="box-info">
 
                                     <div class="vertical-title" data-dsn-animate="up">
-                                        <h2>Triangle Workplace</h2>
+                                        <h2>Triangle Residential</h2>
                                     </div>
 
                                     <h6 data-dsn-animate="up">Perfection is achieved, 
@@ -384,10 +368,32 @@
                     </div>
                 </div>
 
+                <div class="box-seat box-seat-full section-margin">
+                    <div class="container-fluid">
+                        <div class="inner-img" data-dsn-grid="move-up">
+                            <img class="lazyload" data-dsn-scale="1" data-dsn-y="30%" src="assets/img/triangle/home-slider/workspace-tech.jpg" alt="">
+                        </div>
+                        <div class="pro-text">
+                            <h3>Triangle Workplace<br></h3>
+                            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
+                                Aspernatur exercitationem deleniti similique quia atque ullam fuga rem corrupti temporibus, perferendis, facilis dicta architecto eaque nulla, 
+                                ex cupiditate reiciendis suscipit sequi. </p>
+                            <div class="link-custom">
+                                <a class="image-zoom effect-ajax" href="project-mac.php" data-dsn="parallax">
+                                    <span>Learn More</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+  
+            
+
                 <div class="box-seat section-margin">
                         <div class="container-fluid">
                             <div class="inner-img" data-dsn-grid="moveUp">
-                                <img src="assets/img/triangle/home-slider/workspace-tech.jpg" alt="" style="transform: translate(0%, 6.41523%) translate3d(0px, 0px, 0px) scale(1.06415, 1.06415);">
+                           
+                                <img src="assets/img/triangle/home-slider/MAC-AF-11.jpg" alt="" style="transform: translate(0%, 6.41523%) translate3d(0px, 0px, 0px) scale(1.06415, 1.06415);">
                             </div>
                             <div class="pro-text dsn-move-section" style="visibility: inherit; opacity: 1; transform: translate3d(0px, -51.1307px, 0px);">
                                 <h3 data-dsn-animate="animate" class="dsn-active"><span class="dsn-wrapper"><span class="dsn-word-wrapper">Triangle AudioVisual</span></span></h3>
@@ -395,7 +401,13 @@
                                         Sint maxime eaque eveniet repudiandae est, quod veritatis quaerat eum 
                                         voluptatem nemo pariatur voluptates et deleniti excepturi, cupiditate distinctio. 
                                         Vitae, incidunt ipsa.</span></span></p>
+                                        <div class="link-custom">
+                                <a class="image-zoom effect-ajax" href="project-mac.php" data-dsn="parallax">
+                                    <span>Learn More</span>
+                                </a>
                             </div>
+                            </div>
+                          
                         </div>
                     </div>
 
@@ -420,7 +432,7 @@
                                                 <div class="item-border"></div>
                                                 <div class="item-info">
                                                     <h5 class="cat">We Sparkle</h5>
-                                                    <h4>Sparkle Tech</h4>
+                                                    <h4>Sparkle Place</h4>
                                                     <span><span>Veiw Project</span></span>
                                                 </div>
                                             </a>
@@ -433,7 +445,7 @@
                                                 <div class="item-border"></div>
                                                 <div class="item-info">
                                                     <h5 class="cat">We Rock</h5>
-                                                    <h4>Mike Adenuga</h4>
+                                                    <h4>Mike Adenuga Center</h4>
                                                     <span><span>Veiw Project</span></span>
                                                 </div>
                                             </a>
@@ -446,7 +458,7 @@
                                                 <div class="item-border"></div>
                                                 <div class="item-info">
                                                     <h5 class="cat">We Rock</h5>
-                                                    <h4>Mike Adenuga</h4>
+                                                    <h4>Mike Adenuga Center</h4>
                                                     <span><span>Veiw Project</span></span>
                                                 </div>
                                             </a>
