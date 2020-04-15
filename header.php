@@ -76,7 +76,27 @@
         </div>
     </div>
     <div class="header-top header-top-hamburger">
-        <div class="header-container">
+    <header>
+      <div class="container-seun">
+        <nav id="navigation-seun">
+            <img style="float:left;height:40px" src="assets/img/triangle/home-slider/Triangle-AV-Logo-dark.png" alt="">
+          <!-- <a href="#" class="logo-seun">Jan Czizikow</a> -->
+          <a aria-label="mobile menu" class="nav-toggle">
+            <span></span>
+            <span></span>
+            <span></span>
+          </a>
+          <ul class="menu-left">
+            <li><a href="#">Smart Home</a></li>
+            <li><a href="#">Smart Office</a></li>
+            <li><a href="#">Audiovisual</a></li>
+            <li><a href="about.php">About Us</a></li>
+            <li><a href="contact.php">Contact Us</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+        <!-- <div class="header-container">
             <div class="logo main-logo">
                 <a href="index.php">
                     <img class="dark-logo" src="assets/img/triangle/home-slider/Triangle-AV-Logo-dark.png" alt="" />
@@ -85,14 +105,7 @@
             </div>
 
             <div class="menu-icon" data-dsn="parallax" data-dsn-move="5">
-            <!-- <div class="seun-nav" style="display:flex">
-            <a href="index.php">Home</a>
-            <a href="index.php">Smart Home</a>
-            <a href="index.php">Smart Office</a>
-            <a href="index.php">AudioVisual</a>
-            <a href="index.php">About Us</a>
-                  
-                </div> -->
+          
                 <div class="icon-m">
                     <i class="menu-icon-close fas fa-times"></i>
                     <span class="menu-icon__line menu-icon__line-left"></span>
@@ -128,7 +141,7 @@
                 </div>
 
             </div>
-        </div>
+        </div> -->
     </div>
 </div>
 <!-- End Nav Bar -->

@@ -106,9 +106,9 @@
                                     </div>
                                 </div>
                                 <div class="image-container">
-                                    <div class="image-bg cover-bg" data-image-src="assets/img/triangle/home-slider/audiovisual.jpg"
+                                    <div class="image-bg cover-bg" data-image-src="assets/img/triangle/home-slider/MAC-5.jpg"
                                         data-overlay="6">
-                                        <img class="lazyload" src="assets/img/triangle/home-slider/audiovisual.jpg" alt="">
+                                        <img class="lazyload" src="assets/img/triangle/home-slider/MAC-5.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -421,7 +421,60 @@
                         </div>
                     </div>
                     <div class="container-fluid">
-                        <div class="row">
+                    <!-- New Edit -->
+<div class="slider">
+      <div class="slider__slide slider__slide--active" data-slide="1">
+        <div class="slider__wrap">
+          <div class="slider__back"></div>
+        </div>
+        <div class="slider__inner">
+          <div class="slider__content">
+            <h1>
+            
+            Sparkle <br />
+            Place
+            </h1>
+            <a style="margin-top: 12px;" class="go-to-next">next</a>
+            <br>
+            <button style="margin-top: 22px;">View Case</button>
+          </div>
+        </div>
+      </div>
+      <div class="slider__slide" data-slide="2">
+        <div class="slider__wrap">
+          <div class="slider__back"></div>
+        </div>
+        <div class="slider__inner">
+          <div class="slider__content">
+            <h1>
+            
+              Mike Adenuga <br />
+              Center</h1>
+              <a style="margin-top: 12px;" class="go-to-next">next</a>
+            <br>
+            <button style="margin-top: 22px;">View Case</button>
+          </div>
+        </div>
+      </div>
+      <div class="slider__slide" data-slide="3">
+        <div class="slider__wrap">
+          <div class="slider__back"></div>
+        </div>
+        <div class="slider__inner">
+          <div class="slider__content">
+            <h1>
+            Eko Atlantic  <br />
+            Pearl Towers
+            </h1>
+            <a style="margin-top: 12px;" class="go-to-next">next</a>
+            <br>
+            <button style="margin-top: 22px;">View Case</button>
+          </div>
+        </div>
+      </div>
+      <div class="slider__indicators"></div>
+    </div>
+                        <!-- <div class="row">
                             <div class="col-lg-9 offset-lg-3">
                                 <div class="work-container">
                                     <div class="slick-slider">
@@ -482,9 +535,11 @@
 
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </section>
+
+
 
 
                 <!-- Move to Case study page-->
@@ -651,6 +706,7 @@
     <script src="assets/js/plugins.js"></script>
     <script src="assets/js/dsn-grid.js"></script>
     <script src="assets/js/custom.js"></script>
+    <script src="assets/js/seun.js"></script>
 </body>
 
 
