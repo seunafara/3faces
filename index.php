@@ -652,46 +652,7 @@
           
 
                <?php require_once('footer.php') ?>
-            </div>
-        </div>
-    </main>
-
-    <!-- Wait Loader -->
-    <div class="wait-loader">
-        <div class="loader-inner">
-            <div class="loader-circle">
-                <div class="loader-layer"></div>
-            </div>
-        </div>
-    </div>
-    <!-- // Wait Loader -->
-
-    <!-- cursor -->
-    <div class="global-cursor">
-        <div class="custom-cursor single-cursor effect-cursor">
-            <div class="cursor-container">
-                <div class="cursor-text">
-                    <div class="cursor-text-wrapper">
-                        <div class="cursor-text-value">Scroll</div>
-                    </div>
-                    <div class="cursor-text-wrapper">
-                        <div class="cursor-text-value nth-2">or hold</div>
-                    </div>
-                </div>
-                <div class="cursor-part">
-                    <div class="cursor-item"></div>
-                </div>
-                <div class="cursor-part cursor-left">
-                    <i class="fas fa-caret-left"></i>
-                </div>
-                <div class="cursor-part cursor-right">
-                    <i class="fas fa-caret-right"></i>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End cursor -->
-
+           
   
 </body>
 
