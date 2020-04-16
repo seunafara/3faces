@@ -17,7 +17,7 @@
     <link rel="icon" href="assets/img/triangle/home-slider/Favicon-32x32.png" sizes="32x32">
 
     <!-- custom styles (optional) -->
-    <script src="http://afarkas.github.io/lazysizes/lazysizes.min.js"></script>
+    <!-- <script src="http://afarkas.github.io/lazysizes/lazysizes.min.js"></script> -->
     <link href="assets/css/plugins.css" rel="stylesheet" />
     <link href="assets/css/style.css" rel="stylesheet" />
     <link href="assets/css/seun.css" rel="stylesheet" />
@@ -42,7 +42,7 @@
 
 <!-- Nav Bar -->
 <div class="dsn-nav-bar">
-    <div class="site-header">
+    <!-- <div class="site-header">
         <div class="extend-container">
             <div class="inner-header">
                 <div class="main-logo">
@@ -59,9 +59,7 @@
                     </li>
                     <li class="custom-drop-down">
                         <a href="#">Smart Home</a>
-                        <!-- <ul>
-                            <li><a href="#">Slider</a></li>
-                        </ul> -->
+                      
                     </li>
                     <li class="custom-drop-down">
                         <a href="#">Smart Office</a>
@@ -74,12 +72,14 @@
                 </ul>
             </nav>
         </div>
-    </div>
+    </div> -->
     <div class="header-top header-top-hamburger">
     <header>
       <div class="container-seun">
         <nav id="navigation-seun">
+        <a href="index.php">
             <img style="float:left;height:40px" src="assets/img/triangle/home-slider/Triangle-AV-Logo-dark.png" alt="">
+</a>
           <!-- <a href="#" class="logo-seun">Jan Czizikow</a> -->
           <a aria-label="mobile menu" class="nav-toggle">
             <span></span>

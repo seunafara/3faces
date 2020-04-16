@@ -58,8 +58,8 @@
                                             </div>
                                         </div>
 
-                                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
-                                            Voluptatibus asperiores sequi illum qui.</p>
+                                        <p>Enabling the connected workforce by creating technology solutions that help businesses run smarter.
+</p>
 
                                         <div class="link-custom">
                                             <a href="/project-sparkle.php" class="image-zoom effect-ajax" data-dsn="parallax"
@@ -93,8 +93,8 @@
                                             </div>
                                         </div>
 
-                                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
-                                            Voluptatibus asperiores sequi illum qui.</p>
+                                        <p>Uncompromised audio and video experiences in all spaces.
+</p>
 
                                         <div class="link-custom">
                                             <a href="/project-eko.php" class="image-zoom effect-ajax" data-dsn="parallax"
@@ -229,14 +229,10 @@
 
                                     <h2 data-dsn-grid="move-section" data-dsn-move="-30" data-dsn-duration="100%"
                                         data-dsn-opacity="1.2" data-dsn-responsive="tablet">
-                                        Hello, we are <br /> Triangle
+                                        Hello, we are <br /> ...
                                     </h2>
 
-                                    <p data-dsn-animate="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                                        Fugit esse blanditiis quis sapiente enim veritatis. 
-                                        Cupiditate natus, veniam enim velit porro aliquid saepe a, deleniti amet facilis quaerat, unde ad?
-                                        et deleniti excepturi, cupiditate distinctio. 
-                                        Vitae, incidunt ipsa.
+                                    <p data-dsn-animate="text">…Triangle Audiovisual Limited, a systems integration company dedicated to using the best technology solutions to create experiences that enhances how people live and work. We do not duplicate solutions from client to client. Rather, we listen to and understand our clients’ needs so that we can provide a tailored, intuitive and more informed solution; one that is smart and effective. 
                                         </p>
 
                                     <!-- <h6 data-dsn-animate="text">Kehinde Awoyinfa</h6>
@@ -346,15 +342,13 @@
                                         <h2>Triangle Residential</h2>
                                     </div>
 
-                                    <h6 data-dsn-animate="up">Perfection is achieved, 
+                                    <!-- <h6 data-dsn-animate="up">Perfection is achieved, 
                                         not when there is nothing more to add, 
                                         but when there is nothing left to take away.
-                                    </h6>
+                                    </h6> -->
 
-                                    <p data-dsn-animate="up">Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
-                                        Sint maxime eaque eveniet repudiandae est, quod veritatis quaerat eum 
-                                        voluptatem nemo pariatur voluptates et deleniti excepturi, cupiditate distinctio. 
-                                        Vitae, incidunt ipsa.</p>
+                                    <p data-dsn-animate="up">Our world is changing. We are evolving, so are our homes. We have gone from building for comfort to living in art. We have gone beyond just living rooms, bedrooms, washrooms, and kitchens to video rooms, home cinemas, home offices, gyms, media rooms and a whole lot more! Interestingly, these spaces continue to evolve to accommodate our dynamic needs and lifestyle. 
+<br> Today, technology has taken our homes to a whole new level. </p>
 
                                     <div class="link-custom" data-dsn-animate="up">
                                         <a class="image-zoom effect-ajax" href="project-eko.php" data-dsn="parallax">
@@ -375,9 +369,7 @@
                         </div>
                         <div class="pro-text">
                             <h3>Triangle Workplace<br></h3>
-                            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
-                                Aspernatur exercitationem deleniti similique quia atque ullam fuga rem corrupti temporibus, perferendis, facilis dicta architecto eaque nulla, 
-                                ex cupiditate reiciendis suscipit sequi. </p>
+                            <p>Workplaces have changed and continue to change, dramatically. 21st-century workplaces have incorporated open offices, board rooms, auditoriums, lounges, collaborative spaces and meeting rooms. These spaces, as diverse as they are and serving different purposes, are directly or indirectly dependent on each other for a complete workflow.</p>
                             <div class="link-custom">
                                 <a class="image-zoom effect-ajax" href="project-mac.php" data-dsn="parallax">
                                     <span>Learn More</span>
@@ -397,10 +389,7 @@
                             </div>
                             <div class="pro-text dsn-move-section" style="visibility: inherit; opacity: 1; transform: translate3d(0px, -51.1307px, 0px);">
                                 <h3 data-dsn-animate="animate" class="dsn-active"><span class="dsn-wrapper"><span class="dsn-word-wrapper">Triangle AudioVisual</span></span></h3>
-                                <p data-dsn-animate="animate" class="dsn-active"><span class="dsn-wrapper"><span class="dsn-word-wrapper">Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
-                                        Sint maxime eaque eveniet repudiandae est, quod veritatis quaerat eum 
-                                        voluptatem nemo pariatur voluptates et deleniti excepturi, cupiditate distinctio. 
-                                        Vitae, incidunt ipsa.</span></span></p>
+                                <p data-dsn-animate="animate" class="dsn-active"><span class="dsn-wrapper"><span class="dsn-word-wrapper">Audiovisual is at the heart of what we do. So, we spare no efforts in delivering world-class AV solutions that help you view the world better and offers a world of possibilities to your business. </span></span></p>
                                         <div class="link-custom">
                                 <a class="image-zoom effect-ajax" href="project-mac.php" data-dsn="parallax">
                                     <span>Learn More</span>
@@ -411,7 +400,7 @@
                         </div>
                     </div>
 
-                <section class="our-work work-under-header  section-margin" data-dsn-col="3">
+                <section class="our-work work-under-header  section-margin" data-dsn-col="3" data-dsn="color">
                     <div class="container">
                         <div class="one-title">
                             <div class="title-sub-container">
@@ -422,7 +411,7 @@
                     </div>
                     <div class="container-fluid">
                     <!-- New Edit -->
-<div class="slider">
+<!-- <div class="slider">
       <div class="slider__slide slider__slide--active" data-slide="1">
         <div class="slider__wrap">
           <div class="slider__back"></div>
@@ -473,10 +462,10 @@
         </div>
       </div>
       <div class="slider__indicators"></div>
-    </div>
-                        <!-- <div class="row">
+    </div> -->
+                        <div class="row">
                             <div class="col-lg-9 offset-lg-3">
-                                <div class="work-container">
+                                <div class="work-container" >
                                     <div class="slick-slider">
                                         <div class="work-item slick-slide">
                                             <a href="project-sparkle.php" data-dsn-grid="move-up" class="effect-ajax">
@@ -535,9 +524,11 @@
 
                                 </div>
                             </div>
-                        </div> -->
+                        </div>
                     </div>
                 </section>
+
+                
 
 
 
@@ -701,12 +692,7 @@
     </div>
     <!-- End cursor -->
 
-    <!-- Optional JavaScript -->
-    <script src="assets/js/jquery-3.1.1.min.js"></script>
-    <script src="assets/js/plugins.js"></script>
-    <script src="assets/js/dsn-grid.js"></script>
-    <script src="assets/js/custom.js"></script>
-    <script src="assets/js/seun.js"></script>
+  
 </body>
 
 

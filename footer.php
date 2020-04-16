@@ -14,3 +14,12 @@
                         </div>
                     </div>
                 </footer>
+
+                  <!-- Optional JavaScript -->
+                  
+    <script src="assets/js/jquery-3.1.1.min.js"></script>
+    <script src="assets/js/seun.js"></script>
+    <script src="assets/js/plugins.js"></script>
+    <script src="assets/js/dsn-grid.js"></script>
+    <script src="assets/js/custom.js"></script>
+    
